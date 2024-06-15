@@ -4,5 +4,5 @@ export default {
     // build: {
     //   outDir: './dist'
     // },
-    base: '/test-vite/'
+    base: '/2test-vite2/'
 };
